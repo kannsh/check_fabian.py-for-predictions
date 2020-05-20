@@ -3,14 +3,13 @@
 # *All notebooks, saved models and dataset folders must be inside your CWD
 
 # Download Dataset & Saved Model
-
+https://www.kaggle.com/fushenggg/check-fabianpy-check-predictions-dataset
 
 *Contains multiple .h5 files and tubs to load different model types (Categorical/Linear)
 
 Unzip the file, select all 5 files (saved model + tubs) and place into your CWD (current working directory) 
 
 Download the .ipynb and .py files and place in CWD
-https://www.kaggle.com/fushenggg/check-fabianpy-check-predictions-dataset
 
 # Running the notebook 
 1. Check where your CWD is located at
