@@ -7,7 +7,7 @@ https://www.kaggle.com/fushenggg/check-fabianpy-check-predictions-dataset
 
 *Contains multiple .h5 files and tubs to load different model types (Categorical/Linear)
 
-Unzip the file, select all 5 files (saved model + tubs) and place into your CWD (current working directory) 
+Unzip the check_fabian.py (Check Predictions).rar file, select all 5 files (saved model + tubs) and place into your CWD (current working directory) 
 
 Download the .ipynb and .py files and place in CWD
 
